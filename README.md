@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zohara Fathima</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Cloud+%26+Deployment;I+build+clean+%26+scalable+web+apps;Always+learning%2C+always+improving&center=true&width=550&height=45">
+</p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <!-- Corrected Image Embedding -->
